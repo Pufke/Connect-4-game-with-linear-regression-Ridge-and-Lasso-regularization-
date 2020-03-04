@@ -35,13 +35,13 @@ Igra sadrži dva moda, pri pokretanju korisniku iskače dialog u kom korisnik bi
 
 <p align="center">
 
-  <img width="400" height="200" src="https://user-images.githubusercontent.com/49925421/75761761-e97ca300-5d39-11ea-89d5-49454ecfb2cb.png">
+  <img width="450" height="200" src="https://user-images.githubusercontent.com/49925421/75761761-e97ca300-5d39-11ea-89d5-49454ecfb2cb.png">
 
 </p>
 
 <p align="center">
 
-  <img width="400" height="750" src="https://user-images.githubusercontent.com/49925421/75762342-cdc5cc80-5d3a-11ea-87c5-acc87e0e2d4d.png">
+  <img width="450" height="750" src="https://user-images.githubusercontent.com/49925421/75762342-cdc5cc80-5d3a-11ea-87c5-acc87e0e2d4d.png">
 
 </p>
 
@@ -63,7 +63,7 @@ Ideja projekta je da se regresija koristi kao mali pomoćnik u borbi protiv AI a
 
 <p align="center">
 
-  <img width="600" height="750" src="https://user-images.githubusercontent.com/49925421/75765091-3dd65180-5d3f-11ea-815d-a3214310e37a.png">
+  <img width="650" height="750" src="https://user-images.githubusercontent.com/49925421/75765091-3dd65180-5d3f-11ea-815d-a3214310e37a.png">
 
 </p>
 
@@ -81,7 +81,7 @@ Igra sadrži i simulaciju fizike. Simuliramo odskakanje tokena, niti se uspavlju
 
 <p align="center">
 
-  <img width="300" height="200" src="https://user-images.githubusercontent.com/49925421/75765882-804c5e00-5d40-11ea-9c14-fb9566f700f8.png">
+  <img width="300" height="300" src="https://user-images.githubusercontent.com/49925421/75765882-804c5e00-5d40-11ea-9c14-fb9566f700f8.png">
 
 </p>
 
